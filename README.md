@@ -20,7 +20,7 @@ Each project is in its own folder:
 
 ## 🛠️ Technologies
 
-- Language: **C**
+- Language: **C**, **Java**
 - Tools: `flex`, `bison`, `gcc`
 - Platform: Linux/macOS (tested on Debian)
 
