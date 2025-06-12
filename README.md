@@ -22,7 +22,7 @@ Each project is in its own folder:
 
 - Language: **C**, **Java**
 - Tools: `flex`, `bison`, `gcc`
-- Platform: Linux/macOS (tested on Debian)
+- Platform: Linux (tested on Debian)
 
 ---
 
